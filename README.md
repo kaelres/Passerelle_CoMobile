@@ -84,4 +84,9 @@ https://www.data.gouv.fr/s/resources/monreseaumobile/20180228-173701/Cartes_4G_2
   #### Manipulation unique
   
    Les problèmes sous linux sont les mêmes que pour windows et la manière de faire se trouve sur la même page. Je vous renvoie donc vers la section windows qui contient les informations nécessaires.
-    
+ 
+ ## Serveur
+ 
+ Comme expliqué dans le rapport, notre travail est décomposé en deux applications, cette première n’est que la passerelle entre les données du gouvernement et la base de données. Une autre application a été développé par le groupe 1, la partie java du serveur de la couverture mobile. Celle-ci est disponible dans une des autres archives rendues et comporte à la fois du travail du groupe 1 (partie java) et du groupe 2 (partie html, javascript, css et angular).
+
+
